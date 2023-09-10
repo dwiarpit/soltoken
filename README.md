@@ -43,4 +43,10 @@ Once you are on the Remix website, create a new file by clicking on the "+" icon
     }
     }
 
+# Authors
+ Arpit
+
+# License
+This project is licensed under the Apache License - see the LICENSE.md file for detail.
+
     
